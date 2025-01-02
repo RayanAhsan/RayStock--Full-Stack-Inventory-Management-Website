@@ -1,6 +1,9 @@
 RayStock: Inventory Management Dashboard 📊
 RayStock is a full-stack web application designed to simplify inventory management for businesses. With a dynamic and responsive dashboard, advanced data visualization, and CRUD functionality, RayStock ensures efficient tracking and organization of inventory data.
 
+![Untitled design (3)](https://github.com/user-attachments/assets/20c7d7a5-9c5b-4aae-b492-55edf6960851)
+
+
 🌟 Key Features
 
 Website Design: Built with Next.js and styled with Tailwind CSS for a modern, responsive interface.
